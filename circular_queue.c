@@ -10,7 +10,7 @@ void main()
 {
    int choice;
    char x=0;
-   printf(" 1.Insert\n 2.Dequeue\n 3.Display\n 4.Exit");
+   printf(" 1.Enqueue\n 2.Dequeue\n 3.Display\n 4.Exit");
    for(;choice!=4;)
    {
    printf("\nEnter your choice:");
